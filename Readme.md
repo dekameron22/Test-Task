@@ -1,4 +1,4 @@
-# Coding Challenge
+# React Coding Challenge
 Frontend coding challenge task including React and test setup
 ## Description
 You will be creating a React application which shows our awesome content. The feature demanded by the users is to see most popular content. The UX and Design team came up with the final design and the Product Owner wants you to implement a `HeroLane` component rendering 3 most popular movies including the background image, title, description and some meta information. We will use the MovieDB as a mocked database for content and [create-react-app](https://create-react-app.dev/docs/getting-started/) as an initial setup.
